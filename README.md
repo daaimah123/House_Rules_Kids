@@ -1,4 +1,4 @@
-# House Rules Presentation
+# 🏡 House Rules Presentation 🏡
 I decided to skip the usual presentation slides, and create an interactive Next.js project to lay out some of our household rules for my children. It's designed to be fun, keep everyone on the same page for summer and the school year, as well as have some Gen Z references to keep their eyes and ears attentive.
 
 ## 🛠️ Features
